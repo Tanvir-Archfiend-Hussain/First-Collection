@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -21,6 +21,8 @@ body {
 
 .content {
   background-color: indianred;
+  width: 600px;
+  transform: translate(50%);
 }
 
 .media-icons {
