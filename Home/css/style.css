@@ -9,6 +9,7 @@
 body {
   background: url(https://mediaim.expedia.com/destination/1/e9dddd9d2a413e62a1626da1bcfdc3fa.jpg);
   font-family: "Poppins", sans-serif;
+  background-size: contain;
 }
 
 .logo {
