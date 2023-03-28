@@ -27,6 +27,8 @@ body {
 }
 
 .media-icons {
-  transform: translate(10%, 180%);
+  transform: translate(10%, 100%);
   background-color: olive;
+  font-size: 80px;
+  margin: 20px;
 }/*# sourceMappingURL=style.css.map */
