@@ -27,7 +27,6 @@ body {
 }
 
 .media-icons {
-  bottom: 0;
-  transform: translate(0%, 180%);
+  transform: translate(10%, 180%);
   background-color: olive;
 }/*# sourceMappingURL=style.css.map */
