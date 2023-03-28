@@ -27,10 +27,10 @@ body {
 }
 
 .media-icons {
-  transform: translate(10%, 100%);
-  background-color: olive;
+  transform: translate(10%, 110%);
+  background-color: rgba(0, 128, 43, 0.381);
   font-size: 80px;
 }
 .media-icons i {
-  margin: 20px;
+  margin: 30px;
 }/*# sourceMappingURL=style.css.map */
