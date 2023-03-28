@@ -30,5 +30,7 @@ body {
   transform: translate(10%, 100%);
   background-color: olive;
   font-size: 80px;
+}
+.media-icons i {
   margin: 20px;
 }/*# sourceMappingURL=style.css.map */
