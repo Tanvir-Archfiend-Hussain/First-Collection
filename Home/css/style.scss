@@ -30,6 +30,10 @@ body {
   background-color: indianred;
   width: 900px;
   transform: translate(5%, 20%);
+  .info {
+    padding: 100px;
+    width: 900px;
+  }
 }
 
 .media-icons {
@@ -39,9 +43,4 @@ body {
   i {
     margin: 30px;
   }
-}
-
-.info {
-  padding: 100px;
-  width: 900px;
 }
