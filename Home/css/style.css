@@ -31,6 +31,10 @@ body {
   width: 900px;
   transform: translate(5%, 20%);
 }
+.content .info {
+  padding: 100px;
+  width: 900px;
+}
 
 .media-icons {
   transform: translate(10%, 110%);
@@ -39,9 +43,4 @@ body {
 }
 .media-icons i {
   margin: 30px;
-}
-
-.info {
-  padding: 100px;
-  width: 900px;
 }/*# sourceMappingURL=style.css.map */
