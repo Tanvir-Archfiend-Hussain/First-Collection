@@ -18,6 +18,8 @@ body {
 
 .NavConton {
   background-color: purple;
+  width: 100%;
+  font-size: 25px;
 }
 
 .content {
