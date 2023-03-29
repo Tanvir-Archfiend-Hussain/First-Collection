@@ -20,6 +20,7 @@ body {
   background-color: purple;
   width: 100%;
   font-size: 25px;
+  color: white;
 }
 
 .navbar-nav li a {
